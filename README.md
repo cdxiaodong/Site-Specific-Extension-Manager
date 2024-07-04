@@ -12,7 +12,7 @@
 
 1. **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/yourusername/site-specific-extension-manager.git
+   git clone https://github.com/CDxiaodong/site-specific-extension-manager.git
    ```
    Alternatively, you can download the ZIP file from the repository and extract it.
 
@@ -67,7 +67,7 @@ If you want to contribute to the development of this extension, follow these ste
 
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/yourusername/site-specific-extension-manager.git
+   git clone https://github.com/CDxiaodong/site-specific-extension-manager.git
    ```
 
 3. **Create a Branch**
